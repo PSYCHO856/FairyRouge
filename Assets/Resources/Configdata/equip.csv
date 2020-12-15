@@ -1,0 +1,4 @@
+﻿装备ID,装备种类ID,装备重量（单位kg）,攻击,护甲,魔抗,天赋ID,技能ID,力量,敏捷,体质,感知,智力,意志,才能,判定属性,判定次数,特殊要求
+equipID,equipTypeID,weight,attack,armor,MagicResistance,talentID,skillID,strength,agile,body,perception,intelligence,will,ability,propertyDecision,decisionTime,specialRequireID
+1001,1,65,100,0,0,,,0,0,0,0,0,0,0,1,3,
+1002,2,65,100,0,0,,,0,0,0,0,0,0,0,1,3,1

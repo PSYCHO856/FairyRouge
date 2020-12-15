@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 8
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f1f85846ffeb7947af8fe83891df184, type: 3}
+  m_Name: Effect
+  m_EditorClassIdentifier: 
+  sheets:
+  - name: Sheet1
+    list:
+    - id: 1000
+      type: "\u7269\u7406\u4F24\u5BB3"
+      value: 10000
+    - id: 1001
+      type: "\u706B\u5143\u7D20\u4F24\u5BB3"
+      value: 10000
+    - id: 1002
+      type: "\u51B0\u5143\u7D20\u4F24\u5BB3"
+      value: 10000
+    - id: 1003
+      type: "\u96F7\u7535\u4F24\u5BB3"
+      value: 10000
+    - id: 1004
+      type: "\u771F\u5B9E\u4F24\u5BB3"
+      value: 10000

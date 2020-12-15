@@ -1,0 +1,152 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 8
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 88ff560e7068af948b9066703f19cf3b, type: 3}
+  m_Name: Forging
+  m_EditorClassIdentifier: 
+  sheets:
+  - name: Sheet1
+    list:
+    - id: 1001
+      forgingType: 1
+      Preconditions: 1000
+      Material1: 1
+      num1: 2
+      Material2: 2
+      num2: 3
+      Material3: 3
+      num3: 4
+    - id: 1002
+      forgingType: 1
+      Preconditions: 1001
+      Material1: 1
+      num1: 3
+      Material2: 2
+      num2: 4
+      Material3: 3
+      num3: 5
+    - id: 1003
+      forgingType: 1
+      Preconditions: 1002
+      Material1: 1
+      num1: 4
+      Material2: 2
+      num2: 5
+      Material3: 3
+      num3: 6
+    - id: 1004
+      forgingType: 1
+      Preconditions: 1003
+      Material1: 1
+      num1: 5
+      Material2: 2
+      num2: 6
+      Material3: 3
+      num3: 7
+    - id: 1005
+      forgingType: 1
+      Preconditions: 1004
+      Material1: 1
+      num1: 6
+      Material2: 2
+      num2: 7
+      Material3: 3
+      num3: 8
+    - id: 1006
+      forgingType: 2
+      Preconditions: 1000
+      Material1: 1
+      num1: 2
+      Material2: 2
+      num2: 3
+      Material3: 3
+      num3: 4
+    - id: 1007
+      forgingType: 2
+      Preconditions: 1006
+      Material1: 1
+      num1: 3
+      Material2: 2
+      num2: 4
+      Material3: 3
+      num3: 5
+    - id: 1008
+      forgingType: 2
+      Preconditions: 1007
+      Material1: 1
+      num1: 4
+      Material2: 2
+      num2: 5
+      Material3: 3
+      num3: 6
+    - id: 1009
+      forgingType: 2
+      Preconditions: 1008
+      Material1: 1
+      num1: 5
+      Material2: 2
+      num2: 6
+      Material3: 3
+      num3: 7
+    - id: 1010
+      forgingType: 2
+      Preconditions: 1009
+      Material1: 1
+      num1: 6
+      Material2: 2
+      num2: 7
+      Material3: 3
+      num3: 8
+    - id: 1011
+      forgingType: 3
+      Preconditions: 1000
+      Material1: 1
+      num1: 2
+      Material2: 2
+      num2: 3
+      Material3: 3
+      num3: 4
+    - id: 1012
+      forgingType: 3
+      Preconditions: 1011
+      Material1: 1
+      num1: 3
+      Material2: 2
+      num2: 4
+      Material3: 3
+      num3: 5
+    - id: 1013
+      forgingType: 3
+      Preconditions: 1012
+      Material1: 1
+      num1: 4
+      Material2: 2
+      num2: 5
+      Material3: 3
+      num3: 6
+    - id: 1014
+      forgingType: 3
+      Preconditions: 1013
+      Material1: 1
+      num1: 5
+      Material2: 2
+      num2: 6
+      Material3: 3
+      num3: 7
+    - id: 1015
+      forgingType: 3
+      Preconditions: 1014
+      Material1: 1
+      num1: 6
+      Material2: 2
+      num2: 7
+      Material3: 3
+      num3: 8

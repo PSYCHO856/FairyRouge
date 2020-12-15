@@ -1,0 +1,4 @@
+﻿角色ID,名字,性别,年龄,职业ID,身高cm,体重KG,技能ID,,奥义ID,力量,敏捷,体质,感知,智力,意志,才能,运气,初始生命,初始攻击,初始护甲,初始魔抗,初始闪避,角色描述,头像,左手,右手,躯体,头,脚,饰品,特殊部位,初始装备1,初始装备2
+roleID,name,sex,age,occupationID,height,weight,skillID1,skillID2,MentalID,strength,agile,body,perception,intelligence,will,ability,luck,hp,attack,armor,MagicResistance,Dodge,describe,title,lefthand,righthand,shape,head,foot,jewelry,specialID,equipID1,equipID2
+1,主角,男,17,1,保密,保密,1001,,1,70,70,70,70,70,70,70,50,25,1,0,0,10,啦啦啦,,1,1,1,1,1,1,,1001,
+2,助理,女,17,,保密,保密,1001,,1,70,70,70,70,70,70,70,50,25,1,0,0,10,啦啦啦,,1,1,1,1,1,1,8,1002,
